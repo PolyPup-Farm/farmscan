@@ -1,0 +1,69 @@
+body {
+    background-color: #08091c;
+}
+
+
+
+.main {
+    width: 300px;
+    display: block;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer p {
+    color: #efefef;
+    font-size: 14px;
+    text-align: center;
+}
+
+.footer a {
+    color: #efefef;
+    text-decoration: underline;
+}
+
+.footer a:hover {
+    text-decoration: none;
+}
+
+.project {
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    display: block;
+}
+
+.logo {
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+.projectButton {
+    color: #fff;
+    padding: 7px;
+    font-size: 20px;
+    border-radius: 5px;
+    width: 100%;
+    cursor: pointer;
+    border: none;
+    margin-top: 1px;
+    margin-left: auto;
+}
+
+.binance {
+    background-color: #a88222;
+}
+
+.fantom {
+    background-color: #0e86ad;
+}
+
+.avax {
+    background-color: #e84142;
+}
+
+.polygon {
+    background-color: #8247e5;
+}
